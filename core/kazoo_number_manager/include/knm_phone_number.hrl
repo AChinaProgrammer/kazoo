@@ -35,6 +35,7 @@
 -define(PVT_REGION, <<"pvt_region">>).
 -define(PVT_MODIFIED, <<"pvt_modified">>).
 -define(PVT_CREATED, <<"pvt_created">>).
+-define(PVT_IS_BILLABLE, <<"pvt_is_billable">>).
 -define(PVT_TYPE, <<"pvt_type">>).
 
 -define(KNM_DB_PREFIX, "numbers/+").
